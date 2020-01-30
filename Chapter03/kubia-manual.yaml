@@ -4,7 +4,7 @@ metadata:
   name: kubia-manual
 spec:
   containers:
-  - image: luksa/kubia
+  - image: fenyuzhe123/kubia
     name: kubia
     ports:
     - containerPort: 8080
